@@ -253,3 +253,31 @@ Robots are also automatically removed if the WebSocket connection closes.
 - **answer:** Send the SDP answer to a specific robot.
 - **candidates:** Exchange lists of ICE candidates between robots and clients.
 - **deregister:** De-register an existing robot.
+
+---
+
+## Cite us
+If you use this code in your work, please cite the DIANE project as follows:
+
+```
+@inproceedings{10.1145/3712676.3719263,
+  author = {Barone, Nunzio and Brescia, Walter and Santangelo, Gabriele and Maggio, Antonio Pio and Cisternino, Ivan and De Cicco, Luca and Mascolo, Saverio},
+  title = {Real-time Point Cloud Transmission for Immersive Teleoperation of Autonomous Mobile Robots},
+  year = {2025},
+  isbn = {9798400714672},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3712676.3719263},
+  doi = {10.1145/3712676.3719263},
+  booktitle = {Proceedings of the 16th ACM Multimedia Systems Conference},
+  pages = {311–316},
+  numpages = {6},
+  keywords = {teleoperation, mobile robots, VR, point clouds, WebRTC},
+  location = {Stellenbosch, South Africa},
+  series = {MMSys '25}
+}
+```
+
+or: 
+
+DIANE: Distributed Immersive Platform for Robot Teleoperation. https://github.com/Diane-Spirit
